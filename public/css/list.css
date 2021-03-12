@@ -1,0 +1,11 @@
+.title {
+    color: snow;
+    background-color: #ffffffe1;
+    padding: 20px;
+    border-radius: 60px;
+    margin: 50px;
+}
+
+.list {
+    width: 90%;
+}
